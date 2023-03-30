@@ -8,5 +8,8 @@ Python code from a python crash course found online.
 <h> Strings.py 
 <p> Python file that contains an introduction to strings and string methods 
 
-<h> lists.ppy
+<h> lists.py
 <p> Python file that contains an introduction to lists and list opperations. 
+
+<h> tuples_set.py
+<p> Python file that contains a basic introduction to tuples and sets. 
