@@ -13,3 +13,6 @@ Python code from a python crash course found online.
 
 <h> tuples_set.py
 <p> Python file that contains a basic introduction to tuples and sets. 
+
+<h> dictionaries.py
+<p> Python file that conatins a basic introduction to dictionaries. 
