@@ -22,3 +22,7 @@ Python code from a python crash course found online.
 
 <h> conditionals.py
 <p> Python file that contains an introduction to conditionals
+
+
+<h> loops.py
+<p> Python file that contains a breif introduction to loops. 
