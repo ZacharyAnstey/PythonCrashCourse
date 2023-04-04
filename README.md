@@ -33,3 +33,6 @@ Python code from a python crash course found online.
 
 <h> validator.py
 <p> Contains a custom made module for validating emails. 
+
+<h> classes.py
+<p> Python file that contains an introduction to classes 
