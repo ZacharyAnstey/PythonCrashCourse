@@ -16,3 +16,7 @@ Python code from a python crash course found online.
 
 <h> dictionaries.py
 <p> Python file that conatins a basic introduction to dictionaries. 
+
+<h> functions.py
+<p> Python file that contains a basic introduction to functions 
+
