@@ -26,3 +26,10 @@ Python code from a python crash course found online.
 
 <h> loops.py
 <p> Python file that contains a breif introduction to loops. 
+
+
+<h> module.py
+<p> Python file that contains an introduction to modules 
+
+<h> validator.py
+<p> Contains a custom made module for validating emails. 
