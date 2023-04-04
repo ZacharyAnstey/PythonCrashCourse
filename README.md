@@ -20,3 +20,5 @@ Python code from a python crash course found online.
 <h> functions.py
 <p> Python file that contains a basic introduction to functions 
 
+<h> conditionals.py
+<p> Python file that contains an introduction to conditionals
