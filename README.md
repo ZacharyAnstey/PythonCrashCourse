@@ -36,3 +36,6 @@ Python code from a python crash course found online.
 
 <h> classes.py
 <p> Python file that contains an introduction to classes 
+
+<h> Files.py and myfile.txt 
+<p> Python file and text file that contains an introduction to using files with python
