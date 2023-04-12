@@ -1,5 +1,5 @@
 # PythonCrashCourse
-Python code from a python crash course found online. 
+Python code from a python crash course found online. Covering the basic concepts of Python
 
 
 <h>  Variables.py 
@@ -39,3 +39,6 @@ Python code from a python crash course found online.
 
 <h> Files.py and myfile.txt 
 <p> Python file and text file that contains an introduction to using files with python
+
+<h> py_json.py
+<p> Python file that contains an introduction to working with json 
